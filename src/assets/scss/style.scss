@@ -1,0 +1,20 @@
+@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap-vue/src/index.scss';
+
+@font-face {
+  font-family: 'KievitPro-Bold';
+  src: local('KievitPro'),
+       url('~@/assets/fonts/KievitPro-Bold.otf') format('otf'),
+}
+
+@font-face {
+  font-family: 'KievitPro-Light';
+  src: local('KievitPro'),
+       url('~@/assets/fonts/KievitPro-Light.otf') format('otf'),
+}
+
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: local('Roboto'),
+       url('~@/assets/fonts/Roboto-Regular.ttf') format('ttf'),
+}
